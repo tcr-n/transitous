@@ -22,7 +22,14 @@
                 "Südbadenbus",
                 "Verkehrsverbund Tirol",
                 "SWEG Südwestdeutsche Landesverkehrs-GmbH",
-                "Verkehrsverbund Hegau-Bodensee"
+                "Verkehrsverbund Hegau-Bodensee",
+                "RDTAin",
+                "Réseau de transports de l'Agglomération de Thonon",
+                "Evian",
+                "SIBRA",
+                "DistriBus",
+                "Transports Publics de l'agglomération d'Annemasse",
+                "Société Nationale des Chemins de fer Français"
             ],
             "script": "ch-opentransportdataswiss.lua"
         },
